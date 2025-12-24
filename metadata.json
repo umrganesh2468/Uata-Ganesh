@@ -1,0 +1,7 @@
+{
+  "name": "Ganesh - UI/UX Designer Portfolio",
+  "description": "A high-end, editorial personal portfolio for a UI/UX and Graphic Designer, featuring project case studies, services, and a premium dark-themed aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
